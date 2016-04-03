@@ -1,0 +1,19 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    json (1.8.1)
+    oauth (0.4.7)
+    spell_checker (0.0.2)
+      stemmer
+    stemmer (1.0.1)
+
+PLATFORMS
+  x64-mingw32
+
+DEPENDENCIES
+  json
+  oauth
+  spell_checker
+
+BUNDLED WITH
+   1.11.2
